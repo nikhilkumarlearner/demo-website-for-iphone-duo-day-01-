@@ -33,7 +33,7 @@ iphone-duo/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/nikhilkumarlearner/demo-website-for-iphone-duo-day-o1-.git
+   git clone https://github.com/nikhilkumarlearner/demo-website-for-iphone-duo-day-01-.git
    ```
 
 2. Open the project folder.
