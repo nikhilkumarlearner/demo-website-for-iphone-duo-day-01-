@@ -88,3 +88,7 @@ p:hover{
     color: blue;
     text-decoration: none;
 }
+#nav a:hover{
+    color: black;
+
+}
