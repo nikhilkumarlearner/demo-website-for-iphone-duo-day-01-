@@ -70,7 +70,7 @@ background-position: center;
     padding: 10px;
     border-radius: 50px;
     border-color: beige;
-    box-shadow: 10px 10px 10px black;
+    box-shadow: 10px 10px 10px gray;
     
 }
 #do{
@@ -81,6 +81,10 @@ background-position: center;
     color: black;
     border-color: blue;
     cursor: pointer;
+    box-shadow: 10px 10px 10px black;
 
-
+}
+p:hover{
+    color: blue;
+    text-decoration: none;
 }
